@@ -3,7 +3,7 @@ This notebook is based on an assignment done as part of a Master in Data Science
 The assignment is split into three main parts: data understanding, data cleaning and model buidling. When building and evaluating the model special attention is paid to the Recall score, the model's ability to detect true positives as such. We begin with four different models: a decision tree, a logistic regression, a random forest and a gradient boosting classifier. The logistic regression and the gradient boosting classifier perform significantly better than the other two models, which is why only those two are optimized further.
 
 1) Data understanding
-   1.1 Import dataset and data dictionary
+1.1 Import dataset and data dictionary
    1.2 Check for duplicates
    1.3 Check datatypes and correct them if necessary
    1.4 Descriptive statistics
