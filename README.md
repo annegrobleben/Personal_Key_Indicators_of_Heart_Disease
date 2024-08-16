@@ -28,4 +28,4 @@ The assignment is split into three main parts: data understanding, data cleaning
    - 3.8 Reverse outlier treatment in Age column
    - 3.9 Conclusion
 
-This notebook was created in Google Colab. In order to run it in Google Colab the attached csv-files "heart_disease_data.csv" and "data_dictionary" need to be added to "MyDrive" in Google drive in a folder named "SupervisedMachineLearningn" so that the code cell 4 and 5 can be run properly. In case that this notebook is run in an application that is different from Google Colab part "1.1 Import dataet and data dictionary" needs to be adjusted beforehand.
+This notebook was created in Google Colab. In order to run it in Google Colab the attached csv-files "heart_disease_data.csv" and "data_dictionary" need to be added to "MyDrive" in Google drive in a folder named "SupervisedMachineLearning" so that the code cell 4 and 5 can be run properly. In case that this notebook is run in an application that is different from Google Colab part "1.1 Import dataet and data dictionary" needs to be adjusted beforehand.
